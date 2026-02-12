@@ -40,7 +40,7 @@ Para rodar o projeto, você precisará de um compilador C (como o GCC) instalado
 
 3. **Execute o programa:**
   ```bash
-./livraria
+  ./livraria
 
 ---
 **Desenvolvido por** [João Gualberto](https://github.com/Ja1Gualberto)
