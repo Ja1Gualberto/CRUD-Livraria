@@ -35,12 +35,13 @@ Para rodar o projeto, você precisará de um compilador C (como o GCC) instalado
    git clone [https://github.com/Ja1Gualberto/CRUD-Livraria.git](https://github.com/Ja1Gualberto/CRUD-Livraria.git)
 
 2. **Compile o código:**
-  ```bash
-  gcc main.c -o livraria
+   ```bash
+   gcc main.c -o livraria
 
 3. **Execute o programa:**
-  ```bash
-  ./livraria
+     ```bash
+     ./livraria
+      ```
 
 ---
 **Desenvolvido por** [João Gualberto](https://github.com/Ja1Gualberto)
